@@ -3,6 +3,15 @@
 
 ---
 <p align="center">
+<div align="center" style="background: linear-gradient(90deg, #00C9FF, #92FE9D); padding: 20px; border-radius: 10px;">
+
+  <h1>Welcome to My GitHub 🚀</h1>
+
+  <img src="https://raw.githubusercontent.com/anshojha-12312163/anshojha-12312163/main/WhatsApp%20Image%202026-04-12%20at%201.01.49%20AM.jpeg" width="400"/>
+
+  <h3>AI | ML | Data Science</h3>
+
+</div>
   
 
 🌱 I’m currently learning: Data Science, AI, ML  
