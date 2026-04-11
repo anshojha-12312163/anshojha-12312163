@@ -3,8 +3,7 @@
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anshojha-12312163/anshojha-12312163/main/Untitled%20design.jpg" />
-</p>
+  
 
 🌱 I’m currently learning: Data Science, AI, ML  
 💻 Skills: Python, Java, React, Excel  
