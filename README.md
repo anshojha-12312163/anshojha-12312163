@@ -6,7 +6,7 @@
 🌱 I’m currently learning: Data Science, AI, ML  
 💻 Skills: Python, Java, React, Excel  
 📊 Projects: Malware Classification, AI Dashboard  
-📫 Email: your-email@gmail.com  
+📫 Email: anshojha420@gmail.com  
 
 ---
 
