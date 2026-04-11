@@ -1,80 +1,88 @@
-<!-- 🔥 Animated Header (3D Wave Gradient) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=Ansh%20Ojha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<!-- 🌈 MULTI-COLOR 3D HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,25:ff8c00,50:40e0d0,75:8a2be2,100:00ffcc&height=250&section=header&text=Ansh%20Ojha&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<!-- 👋 Intro -->
+<!-- 👋 INTRO -->
 <h1 align="center">Hey 👋, I'm Ansh Ojha</h1>
-<h3 align="center">🚀 AI | ML | Data Science Enthusiast</h3>
+<h3 align="center">🚀 AI | ML | Data Science | Future Innovator</h3>
 
-<!-- 🔥 Typing Animation -->
+<!-- 🔥 COLORFUL TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Future+Data+Scientist;AI+Developer;Building+Smart+Systems;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF00FF&center=true&vCenter=true&width=750&lines=Welcome+to+My+Colorful+World+🌈;AI+Developer+🚀;Machine+Learning+Explorer+🤖;Building+Future+Tech+💡" />
 </p>
 
-<!-- 💎 3D Profile Image -->
+<!-- 💎 PROFILE IMAGE WITH GLOW -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anshojha-12312163/anshojha-12312163/main/WhatsApp%20Image%202026-04-12%20at%201.01.49%20AM.jpeg" width="280" style="border-radius:50%; box-shadow: 0px 0px 30px #00f7ff;" />
+  <img src="https://raw.githubusercontent.com/anshojha-12312163/anshojha-12312163/main/WhatsApp%20Image%202026-04-12%20at%201.01.49%20AM.jpeg" width="260" style="border-radius:50%; box-shadow: 0px 0px 40px #ff00ff;" />
 </p>
 
 ---
 
-# 🌌 About Me
-✨ Passionate about building intelligent systems  
-🎓 MBA (HR & Marketing)  
-💻 Exploring AI, ML & Data Science  
-🚀 Goal: Become a top Data Scientist  
+# 🌈 ABOUT ME (GLASS STYLE)
+✨ Passionate about AI, ML & Data Science  
+🎓 MBA Student  
+🚀 Building real-world AI projects  
+🔥 Dream: Become Top Data Scientist  
 
 ---
 
-# 🚀 Featured Projects (Premium Cards)
+# 🚀 PROJECTS (COLORFUL CARDS)
 
 <table>
 <tr>
 <td align="center">🔥 Malware Classification</td>
 <td align="center">🤖 AI Career Dashboard</td>
-<td align="center">💬 Loan Chatbot</td>
+<td align="center">💬 Chatbot System</td>
 </tr>
 </table>
 
 ---
 
-# 🛠️ Tech Stack (Animated Badges)
+# 🛠️ TECH STACK (ANIMATED ICONS)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics (Premium UI)
+# 📊 GITHUB STATS (NEON STYLE)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshojha-12312163&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshojha-12312163&theme=tokyonight&hide_border=true&background=0D1117" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anshojha-12312163&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshojha-12312163&theme=radical&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshojha-12312163&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</p>
-
----
-
-# 🐍 Contribution Snake Animation (3D Feel)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshojha-12312163&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-# 🌐 Connect With Me (Glass Buttons)
+# 🐍 COLORFUL SNAKE ANIMATION
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-# 🔥 Premium Footer Wave
+# 🌐 SOCIAL (COLOR BUTTONS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:2c5364&height=150&section=footer"/>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-ff0080?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-ff8c00?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+# 🌌 EXTRA ANIMATED BACKGROUND GIF (VERY PREMIUM)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%"/>
+</p>
+
+---
+
+# 🔥 COLORFUL FOOTER
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,50:8a2be2,100:ff0080&height=180&section=footer"/>
