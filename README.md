@@ -25,13 +25,17 @@
 
 ## 💼 Experience
 
-**HR Intern – Varun Beverages Limited**  
-📅 June 2025 – August 2025  
-- Assisted in recruitment and selection process  
-- Coordinated interviews and candidate management  
-- Maintained recruitment reports  
+**Summer Internship – FLAMES’25**  
+📅 June 2025 – July 2025  
+
+- Completed training in **Data Structures & Algorithms (DSA)** using Java and C++  
+- Applied problem-solving techniques to implement core algorithmic concepts  
+- Developed a project based on searching, sorting, and optimization algorithms  
+- Gained hands-on experience in writing efficient and structured code  
+- Improved understanding of time complexity and real-world coding practices  
 
 ---
+  
 
 ## 🚀 Projects
 
