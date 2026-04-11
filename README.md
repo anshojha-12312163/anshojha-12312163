@@ -1,88 +1,85 @@
-<!-- 🌈 MULTI-COLOR 3D HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,25:ff8c00,50:40e0d0,75:8a2be2,100:00ffcc&height=250&section=header&text=Ansh%20Ojha&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<!-- 🔷 CLEAN MODERN HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ansh%20Ojha&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 <!-- 👋 INTRO -->
-<h1 align="center">Hey 👋, I'm Ansh Ojha</h1>
-<h3 align="center">🚀 AI | ML | Data Science | Future Innovator</h3>
+<h1 align="center">Hi, I'm Ansh Ojha 👋</h1>
+<h3 align="center">AI | ML | Data Science Enthusiast</h3>
 
-<!-- 🔥 COLORFUL TYPING -->
+<!-- 💡 SUBTITLE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF00FF&center=true&vCenter=true&width=750&lines=Welcome+to+My+Colorful+World+🌈;AI+Developer+🚀;Machine+Learning+Explorer+🤖;Building+Future+Tech+💡" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&size=22&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Data+Driven+Thinker;Future+Data+Scientist" />
 </p>
 
-<!-- 💎 PROFILE IMAGE WITH GLOW -->
+<!-- 🧑 PROFILE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anshojha-12312163/anshojha-12312163/main/WhatsApp%20Image%202026-04-12%20at%201.01.49%20AM.jpeg" width="260" style="border-radius:50%; box-shadow: 0px 0px 40px #ff00ff;" />
-</p>
-
----
-
-# 🌈 ABOUT ME (GLASS STYLE)
-✨ Passionate about AI, ML & Data Science  
-🎓 MBA Student  
-🚀 Building real-world AI projects  
-🔥 Dream: Become Top Data Scientist  
-
----
-
-# 🚀 PROJECTS (COLORFUL CARDS)
-
-<table>
-<tr>
-<td align="center">🔥 Malware Classification</td>
-<td align="center">🤖 AI Career Dashboard</td>
-<td align="center">💬 Chatbot System</td>
-</tr>
-</table>
-
----
-
-# 🛠️ TECH STACK (ANIMATED ICONS)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode&theme=dark" />
+  <img src="https://raw.githubusercontent.com/anshojha-12312163/anshojha-12312163/main/WhatsApp%20Image%202026-04-12%20at%201.01.49%20AM.jpeg" width="220" style="border-radius:50%; box-shadow: 0px 4px 20px rgba(0,0,0,0.3);" />
 </p>
 
 ---
 
-# 📊 GITHUB STATS (NEON STYLE)
+## 🧑‍💼 About Me
+
+- 🎓 MBA (HR & Marketing)  
+- 💻 Focused on **AI, Machine Learning & Data Science**  
+- 📊 Building real-world projects & dashboards  
+- 🚀 Career Goal: Data Scientist  
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|--------|------------|
+| 🔍 Malware Classification | ML-based detection system |
+| 🤖 AI Career Dashboard | Smart career recommendation system |
+| 💬 Chatbot System | AI-based interaction system |
+| 📊 Excel Dashboard | Data visualization project |
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshojha-12312163&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshojha-12312163&theme=radical&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshojha-12312163&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode" />
 </p>
 
 ---
 
-# 🐍 COLORFUL SNAKE ANIMATION
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anshojha-12312163&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshojha-12312163&theme=github-dark-blue&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshojha-12312163&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
-# 🌐 SOCIAL (COLOR BUTTONS)
+## 📈 Contribution Activity
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-ff0080?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-ff8c00?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshojha-12312163&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
 
-# 🌌 EXTRA ANIMATED BACKGROUND GIF (VERY PREMIUM)
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%"/>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 ---
 
-# 🔥 COLORFUL FOOTER
+## 💡 Quote
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,50:8a2be2,100:ff0080&height=180&section=footer"/>
+<p align="center">
+  <i>"Focused on growth, driven by data."</i>
+</p>
+
+<!-- 🔻 CLEAN FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
