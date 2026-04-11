@@ -1,75 +1,80 @@
-<h1 align="center">Hi 👋, I'm Ansh Ojha</h1>
+<!-- 🔥 Animated Header (3D Wave Gradient) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=Ansh%20Ojha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<h3 align="center">🚀 Aspiring Data Scientist | AI & ML Enthusiast</h3>
+<!-- 👋 Intro -->
+<h1 align="center">Hey 👋, I'm Ansh Ojha</h1>
+<h3 align="center">🚀 AI | ML | Data Science Enthusiast</h3>
 
-<!-- Animated Typing Text -->
+<!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=AI+%7C+ML+Enthusiast;Data+Science+Learner;Future+Tech+Innovator;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Future+Data+Scientist;AI+Developer;Building+Smart+Systems;Always+Learning+🚀" />
 </p>
 
-<!-- Banner / Profile Image -->
+<!-- 💎 3D Profile Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anshojha-12312163/anshojha-12312163/main/WhatsApp%20Image%202026-04-12%20at%201.01.49%20AM.jpeg" width="300" style="border-radius:50%;" />
-</p>
-
----
-
-## 🌟 About Me
-- 🎓 MBA (HR & Marketing) Student  
-- 💻 Passionate about **AI, ML & Data Science**  
-- 📊 Building Real World Projects  
-- 🚀 Goal: Become Data Scientist  
-
----
-
-## 🚀 My Projects
-- 🔹 Malware Classification System  
-- 🔹 AI Career Dashboard  
-- 🔹 Car Loan Chatbot  
-- 🔹 Excel Data Dashboard  
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/AI-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Science-purple?style=for-the-badge"/>
+  <img src="https://raw.githubusercontent.com/anshojha-12312163/anshojha-12312163/main/WhatsApp%20Image%202026-04-12%20at%201.01.49%20AM.jpeg" width="280" style="border-radius:50%; box-shadow: 0px 0px 30px #00f7ff;" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (Animated)
+# 🌌 About Me
+✨ Passionate about building intelligent systems  
+🎓 MBA (HR & Marketing)  
+💻 Exploring AI, ML & Data Science  
+🚀 Goal: Become a top Data Scientist  
+
+---
+
+# 🚀 Featured Projects (Premium Cards)
+
+<table>
+<tr>
+<td align="center">🔥 Malware Classification</td>
+<td align="center">🤖 AI Career Dashboard</td>
+<td align="center">💬 Loan Chatbot</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack (Animated Badges)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshojha-12312163&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshojha-12312163&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshojha-12312163&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode" />
 </p>
 
 ---
 
-## 🔥 Contribution Graph (Snake Animation)
+# 📊 GitHub Analytics (Premium UI)
 
 <p align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anshojha-12312163&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshojha-12312163&theme=tokyonight&hide_border=true&background=0D1117" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshojha-12312163&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🐍 Contribution Snake Animation (3D Feel)
 
 <p align="center">
-  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## ✨ Quote
-> 🔥 "Always learning, always building!"
+# 🌐 Connect With Me (Glass Buttons)
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+# 🔥 Premium Footer Wave
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:2c5364&height=150&section=footer"/>
