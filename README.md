@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2d42,100:6a4c93&height=220&section=header&text=Ansh%20Ojha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20|%20Backend%20Enthusiast%20|%20Aspiring%20SDE&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2d42,100:6a4c93&height=220&section=header&text=Ansh%20Ojha&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20|%20Data%20Analyst%20|%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/anshojha45"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/anshojha-12312163"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Backend+Developer;Spring+Boot+Enthusiast;DSA+%7C+System+Design+Learner;Open+to+SDE+Internships+2026&center=true&width=500&height=45&color=6A4C93&vCenter=true&size=22&font=Fira+Code"/>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Backend+Developer;Data+Analyst+%7C+Excel+%2B+SQL+%2B+Python;Machine+Learning+Enthusiast;Open+to+Internships+2026&center=true&width=550&height=45&color=6A4C93&vCenter=true&size=22&font=Fira+Code"/>
 
 <img src="https://komarev.com/ghpvc/?username=anshojha-12312163&label=Profile%20Views&color=6a4c93&style=for-the-badge" alt="profile views"/>
 
@@ -18,10 +18,11 @@
 
 ```java
 public class AnshOjha {
-    private String role         = "Java Developer";
-    private String[] stack      = {"Java", "Spring Boot", "MySQL", "DSA"};
-    private String[] learning   = {"System Design", "REST APIs", "Cloud Basics"};
-    private String goal         = "Software Engineering Internship, 2026";
+    private String role         = "Java Developer & Data Analyst";
+    private String[] stack      = {"Java", "Spring Boot", "SQL", "Python"};
+    private String[] dataStack  = {"Pandas", "NumPy", "Power BI", "Scikit-learn"};
+    private String[] learning   = {"Machine Learning", "System Design", "REST APIs"};
+    private String goal         = "Internship in Software Dev / Data Analytics, 2026";
     private boolean openToWork  = true;
 
     public static void main(String[] args) {
@@ -30,10 +31,12 @@ public class AnshOjha {
 }
 ```
 
-- 🔭 Building **Java-based backend projects**
-- 🌱 Learning **Spring Boot, REST APIs & System Design**
-- 🎯 Goal: **Land a Software Development Internship**
-- 💬 Ask me about **Java, OOP, DSA, Backend Dev**
+- 🔭 Building **Java-based backend projects** & **data analysis dashboards**
+- 📊 Working with **Python, Pandas, SQL & Power BI** for data analysis
+- 🤖 Exploring **Machine Learning** with **Scikit-learn**
+- 🌱 Learning **Spring Boot, System Design & ML model deployment**
+- 🎯 Goal: **Land a Software Dev / Data Analyst Internship**
+- 💬 Ask me about **Java, SQL, Data Analysis, DSA, ML basics**
 - ⚡ Fun fact: *add something fun here*
 
 <br/>
@@ -42,15 +45,29 @@ public class AnshOjha {
 
 <div align="center">
 
+**Languages & Backend**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Data Analysis & ML**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -64,7 +81,7 @@ public class AnshOjha {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshojha-12312163&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=anshojha-12312163&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
@@ -77,14 +94,6 @@ public class AnshOjha {
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anshojha-12312163&theme=radical&no-frame=true&row=1&column=7"/>
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/anshojha-12312163/anshojha-12312163/output/github-contribution-grid-snake.svg" width="95%"/>
 </div>
 
 <br/>
