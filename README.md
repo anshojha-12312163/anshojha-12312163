@@ -6,6 +6,10 @@
 
 <br/><br/>
 
+### 🌐 [View my full interactive portfolio →](https://anshojha-12312163.github.io/portfolio-/)
+
+<br/>
+
 <a href="https://anshojha-12312163.github.io/portfolio-/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/anshojha45"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:anshojha420@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -45,7 +49,6 @@ public class AnshOjha {
 - 🎯 Goal: **Land a Software Dev / Data Analyst Internship**
 - 💬 Ask me about **Java, SQL, Data Analysis, DSA, ML basics**
 - 📫 Reach me at: **anshojha420@gmail.com**
-- 🌐 Portfolio: **[anshojha-12312163.github.io/portfolio-](https://anshojha-12312163.github.io/portfolio-/)**
 
 <br/>
 
